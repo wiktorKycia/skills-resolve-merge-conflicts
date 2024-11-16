@@ -1,3 +1,4 @@
 # References
-- octopus and cat
-- github is super
+
+- octocat, octopus and a cat 😈
+
